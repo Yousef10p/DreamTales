@@ -1,5 +1,5 @@
-# 🌙 Storyteller Chatbot  
-[Visit the Website](https://yourwebsite.com)
+# 🌙 DreamTales  
+[Visit the Website](https://huggingface.co/spaces/US10F/DreamTales)
 
 ---
 
@@ -33,4 +33,4 @@ The platform is simple to use: open the website, type your story prompt, and enj
 
 ## Learn More
 
-Visit the [website](https://yourwebsite.com) to explore the Storyteller Chatbot in action, and discover how stories can be **experienced in a whole new way**.
+Visit the [website](https://huggingface.co/spaces/US10F/DreamTales) to explore the Storyteller Chatbot in action, and discover how stories can be **experienced in a whole new way**.
